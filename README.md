@@ -1,6 +1,5 @@
 <h3 align="center">Lucas Camargo</h3>
 <p align="center">
-  <a href="https://www.lpescador.com.br">Website</a> •
   <a href="https://www.linkedin.com/in/lpescador/">LinkedIn</a> •
   <a href="mailto:lucaspescadordecamargo@gmail.com">Contact</a>
 </p>
